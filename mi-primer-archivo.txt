@@ -1,0 +1,5 @@
+Nombre: Alisson Quimbita
+Carrera: Ciencia de datos e inteligencia artificial
+Fecha: 21-07-2025
+
+Este es un archivo de texto de prueba creado directamente en Github.
